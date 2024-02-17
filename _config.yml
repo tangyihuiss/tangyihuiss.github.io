@@ -8,11 +8,11 @@ name: "yihui's blog"
 description: "辉辉的博客"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
+# avatar：头像
 avatar: https://github.com/tangyihuiss/tangyihuiss.github.io/tree/master/image/F4CE6834204F6942E376AB9CE87B4499.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
+# favicon：浏览器标签上的小图标
 favicon: https://github.com/tangyihuiss/tangyihuiss.github.io/tree/master/image/F4CE6834204F6942E376AB9CE87B4499.png
-
-
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -26,3 +26,35 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
+
+# 每页显示的文章数量为8
+paginate: 8
+
+# 页脚链接 各种社交媒体或在线平台的图标和链接
+footer-links:
+  #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  behance: # https://www.behance.net/<username>
+  dribbble:
+  zhihu: 
+  email: 2421547970@qq.com
+  facebook:
+  flickr:
+  github: tangyihuiss 
+  googleplus: # anything in your profile username that comes after plus.google.com/
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  tumblr: # https://<username>.tumblr.com
+  #twitter: frommidworld
+  youtube:
+
+  # 页脚文本 版权和页脚中显示的其他文本
+  footer-text: Copyright (c) 2023 yihui
+
+  # 启用评论功能
+  disqus:
+
+  
+
