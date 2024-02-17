@@ -7,4 +7,4 @@ name: "yihui's blog"
 # Short bio or description (displayed in the header)
 description: "辉辉的博客"
 
-
+theme: jekyll-theme-minimal
