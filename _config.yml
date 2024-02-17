@@ -56,5 +56,15 @@ footer-links:
   # 启用评论功能
   disqus:
 
-  
+  # Gitalk
+  # Gitalk
+gitalk:
+  clientID: 065fd477fda302f844ce
+  clientSecret: 5134d194b4baf04933789e4095a4e24963128cfe
+  repo: tangyihuiss.github.io
+  owner: yihui
+
+  # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+  # Used for Sitemap.xml and your RSS feed
+  url: https://tangyihuiss.github.io
 
